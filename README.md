@@ -10,6 +10,6 @@ The problem is preety much stright forward, we all are famelier with Garbage and
 
 | Model Name       |Test Accuracy | Epochs | For improve accuracy |
 | ---------------- | ------------- | ------ | -------------------- |
-| VGG-16 with TL    |     43.03%    |   5    |    Set 100 Epochs    |
-| Improvement of VGG-16 with TL |     72.5%    |   20    |    Tune more HT    |
+| VGG-16 with TL    |     68.03%    |   5    |    Set 100 Epochs    |
+| Improvement of VGG-16 with TL |     92.5%    |   20    |    Tune more HT    |
 
